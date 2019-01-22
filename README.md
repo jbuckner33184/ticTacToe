@@ -1,7 +1,5 @@
-# ticTacToe
-A Tic-Tac-Toe game I've been working on as a side project
 
-<i>Tic-Tac-Toe</i>
+<h1><i>Tic-Tac-Toe</i></h1>
 <br/>
 By Jon P. Buckner
 <br/><br/>
